@@ -2,6 +2,7 @@
 ![instagram](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) 
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
 ![instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgalantt)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgalantt&show_icons=true&theme=radical) <br>
 
 ## Tecnologias que uso no meu dia a dia:
@@ -10,4 +11,6 @@
   <img align="center" alt="imagem do css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="imagem do python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="imagem do javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</div>
+</div> <br>
+
+### Me interesso demais pela área da programação e tecnologia, e, assim como ela, estou a evoluir constantemente. 
