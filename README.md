@@ -1,4 +1,3 @@
-### Olá! Me chamo Carlos Henrique Galant <br><img src="https://em-content.zobj.net/thumbs/120/softbank/145/waving-hand-sign_1f44b.png"> <br>
 ![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![instagram](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) 
 ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
