@@ -1,7 +1,7 @@
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/carlosgalantt/)
+<a href = "mailto:carloshenriquegalant@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 ![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) 
 <a href="https://www.instagram.com/carlosgalantt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)<br><br>
+<a href="(https://www.linkedin.com/in/carlos-henrique-galant-423a56262/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br><br>
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosgalantt&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgalantt&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br><br>
 
