@@ -19,6 +19,7 @@
 </div> <br>
 
 ### Aprendendo no momento:
+<br>
  <img align="center" alt="imagem do javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br>
 
 ### Me interesso demais pela área da programação e tecnologia, e, assim como ela, estou a evoluir constantemente. 
