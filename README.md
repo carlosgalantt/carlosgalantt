@@ -14,3 +14,7 @@
 </div> <br>
 
 ### Me interesso demais pela área da programação e tecnologia, e, assim como ela, estou a evoluir constantemente. 
+
+
+
+![snake gif](https://github.com/carlosgalantt/carlosgalantt/blob/output/github-contribution-grid-snake.svg)
