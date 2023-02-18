@@ -2,8 +2,8 @@
 
 
   <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carlosgalantt&show_icons=true&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&bg_color=0d1117" alt="carlosgalantt github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgalantt&layout=compact&hide_border=true&title_color=61dafb&text_color=61dafb&bg_color=0d1117" />
+  <img width="49%" height="270px" src="https://github-readme-stats.vercel.app/api?username=carlosgalantt&show_icons=true&count_private=true&hide_border=true&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&bg_color=0d1117" alt="carlosgalantt github stats" /> 
+  <img width="41%" height="270px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosgalantt&layout=compact&hide_border=true&title_color=61dafb&text_color=61dafb&bg_color=0d1117" />
 </div>
   
   <br>
