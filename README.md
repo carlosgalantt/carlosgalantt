@@ -24,6 +24,14 @@
 <br>
  <img align="center" alt="imagem do javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br>
 
+## IDE´s:
+<div style="display inline_block"> <br>
+  <img align="center" alt="imagem do Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+  <img align="center" alt="imagem do Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+  <img align="center" alt="imagem do Replet" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+  <img align="center" alt="imagem do VS code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div> <br>
+
 ### Me interesso demais pela área da programação e da tecnologia, e, assim como ela, estou a evoluir constantemente. 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=120&section=footer"/>
